@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="harsh_goyal_cybersec_banner.svg" alt="Harsh Goyal — Cybersecurity Engineer" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Harsh+Goyal+👋;Cybersecurity+Engineer+🔐;Penetration+Tester+🛡️;Open+Source+Builder+🛠️" alt="Typing SVG" />
 </h1>
