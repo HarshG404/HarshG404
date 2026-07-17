@@ -73,16 +73,17 @@ I enjoy breaking things ethically, understanding how attacks work from the insid
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshG404&show_icons=true&theme=dark&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff&bg_color=0D1117&border_color=30363D" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshG404&show_icons=true&theme=dark&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff&bg_color=0D1117&border_color=30363D&count_private=true" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG404&layout=compact&theme=dark&title_color=00D4AA&text_color=ffffff&bg_color=0D1117&border_color=30363D" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshG404&theme=dark&background=0D1117&border=30363D&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" />
+  <img src="https://streak-stats.demolab.com?user=HarshG404&theme=dark&background=0D1117&border=30363D&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" />
 </p>
-
 ---
 
 ## 📬 Let's Connect
