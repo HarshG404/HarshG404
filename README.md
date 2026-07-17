@@ -74,7 +74,7 @@ I enjoy breaking things ethically, understanding how attacks work from the insid
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshG404&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=HarshG404&theme=dark&background=0D1117&border=30363D&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" />
 </p>
 
 ---
