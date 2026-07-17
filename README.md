@@ -74,9 +74,7 @@ I enjoy breaking things ethically, understanding how attacks work from the insid
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshG404&show_icons=true&theme=dark&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff&bg_color=0D1117&border_color=30363D&cache_seconds=1800" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG404&layout=compact&theme=dark&title_color=00D4AA&text_color=ffffff&bg_color=0D1117&border_color=30363D&cache_seconds=1800" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshG404&theme=github_dark" />
 </p>
 
 ---
